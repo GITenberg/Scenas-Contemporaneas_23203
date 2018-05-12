@@ -1,0 +1,46 @@
+_repo: Scenas-Contemporaneas_23203
+_version: 0.1.0
+alternative_title: Cenas Contemporâneas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Branco, Camilo Castelo
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Branco, Camilo Ferreira Botelho Castelo
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+edition_note: 2.ª edição
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2007-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23203'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed\
+  \ Proofreading Team at http://www.pgdp.net (This\r\nbook was produced from scanned\
+  \ images of public domain\r\nmaterial from the Google Print project.)"
+publication_note: "Porto:\r\nEm Casa De Cruz Coutinho--Editor\r\nRua Dos Caldeireiros\
+  \ N.ºs 18 E 20\r\nPorto--Typographia De Antonio José Da Silva Teixeira, Rua Da Cancella\r\
+  \nVelha N.º 62\r\n1862"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Scenas Contemporaneas
+url: http://www.gutenberg.org/ebooks/23203
