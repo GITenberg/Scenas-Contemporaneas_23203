@@ -22,6 +22,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23203#Scenas-Contemporaneas
 edition_note: 2.ª edição
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2007-10-26'
